@@ -1,5 +1,20 @@
 {
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgreenhouse/employeeTracker.git"
+  },
   "dependencies": {
-    "package-json": "^8.1.0"
+    "inquirer": "^9.1.4",
+    "mysql2": "^2.3.3",
+    "package-json": "^8.1.0",
+    "dotenv": "^16.0.3",
+    "sequelize": "^6.25.3"
   }
 }
