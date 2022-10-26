@@ -15,6 +15,7 @@
     "mysql2": "^2.3.3",
     "package-json": "^8.1.0",
     "dotenv": "^16.0.3",
+    "console.table": "^0.10.0",
     "sequelize": "^6.25.3"
   }
 }
